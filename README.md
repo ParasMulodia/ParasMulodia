@@ -6,7 +6,7 @@
 
 🌱 Learning is my constant companion, and I'm excited about the possibilities that technology unfolds. Whether it's JavaScript creativity or algorithmic problem-solving in C++, I'm always up for a challenge!
 
-🔧 Tech Stack: JavaScript | HTML | CSS | C++
+🔧 Tech Stack: JavaScript | HTML | CSS | C++ | DSA | OOPS
 
 🚀 Let's connect, collaborate, and code the future together! Open to new opportunities and eager to contribute to exciting projects. 🤝
 
